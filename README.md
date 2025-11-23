@@ -51,7 +51,7 @@ const Pavel = {
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/schecher1/schecher1/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/RD1878/RD1878/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
